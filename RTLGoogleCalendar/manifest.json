@@ -1,0 +1,17 @@
+{
+  "name": "Right To Left Google Calendar",
+  "description": "Displays google calendar in rightToLeft text direction when in edit mode",
+  "version": "1.4",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "icons" : {
+	
+    "128" : "icon.png"
+  },
+  
+  "manifest_version": 2
+}
